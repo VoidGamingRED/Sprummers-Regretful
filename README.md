@@ -2,8 +2,8 @@
   <img src="Edited2.png" alt="Sprummers Regretful Preview">
 </h3>
 
-# <img src="SprummersLogo.png" width="36" alt="Sprummers Logo"> Download
-### **You can download the game in the releases here: https://github.com/VoidGamingRED/Sprummers/releases**
+# <img src="SprummersLogo.webp" width="36" alt="Sprummers Logo"> Download
+### **You can download the game in the releases here: https://github.com/VoidGamingRED/Sprummers-Regretful/releases**
 
 ## Description
 Sprummers Regretful is a spinoff version of the original mod Sprummers.
